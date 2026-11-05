@@ -23,3 +23,19 @@
 * **Prompt Inicial (PRD enviado ao ChatGPT/Lovable):**
 ```text
 Crie uma aplicação web completa em React, Tailwind CSS e componentes shadcn/ui chamada "FocoConcurso". O visual deve ser moderno, limpo, focado em produtividade, utilizando cores sóbrias com detalhes em verde esmeralda. A aplicação deve conter: 1. Landing Page de Conversão com Hero Section e benefícios; 2. Formulário de Onboarding para montagem do plano de estudos personalizado; 3. Integração com WhatsApp puxando os dados preenchidos; 4. Painel Administrativo para gerenciar leads, clientes e status de entrega.
+
+
+
+Correções e Ajustes Posteriores:
+
+Solicitado ao Lovable o ajuste da responsividade do painel administrativo para visualização mobile.
+
+Inclusão de filtros por status na tabela de leads do painel de administração.
+
+🌐 Endereço da Aplicação Publicada
+(https://edital-to-study-plan.lovable.app)
+
+
+
+
+aiz do repositório ou cole os links delas aqui)
