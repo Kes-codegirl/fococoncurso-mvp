@@ -37,5 +37,3 @@ Inclusão de filtros por status na tabela de leads do painel de administração.
 
 
 
-
-aiz do repositório ou cole os links delas aqui)
